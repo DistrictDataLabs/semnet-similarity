@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/DistrictDataLabs/semnet-similarity.png?label=ready&title=Ready)](https://waffle.io/DistrictDataLabs/semnet-similarity)
 # Similarity Computation using Semantic Networks
 **A Natural Language Engineering (NLE) implementation of similarity computation using semantic networks (Iosif and Potamianos, 2012).**
 
