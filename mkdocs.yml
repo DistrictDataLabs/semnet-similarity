@@ -1,1 +1,5 @@
 site_name: Semantic Network Similarity
+pages:
+    - [index.md, Home]
+    - [development.md, Development]
+theme: readthedocs
