@@ -2,6 +2,7 @@
 
 [![Build Status][travis_badge]][travis_build]
 [![Coverage Status][coveralls_badge]][coveralls_build]
+[![Software License][license_badge]][license_link]
 [![Stories in Ready][waffle_badge]][waffle_ready]
 
 **A Natural Language Engineering (NLE) implementation of similarity computation using semantic networks (Iosif and Potamianos, 2012).**
@@ -56,3 +57,7 @@ This project attempts to implement the unsupervised "similarity computation usin
 [travis_build]: https://travis-ci.org/DistrictDataLabs/semnet-similarity
 [coveralls_badge]: https://coveralls.io/repos/DistrictDataLabs/semnet-similarity/badge.svg
 [coveralls_build]: https://coveralls.io/r/DistrictDataLabs/semnet-similarity
+
+<!-- Other Badges -->
+[license_badge]: https://img.shields.io/github/license/DistrictDataLabs/semnet-similarity.svg
+[license_link]: https://github.com/DistrictDataLabs/semnet-similarity/blob/master/LICENSE
