@@ -56,7 +56,7 @@ This project attempts to implement the unsupervised "similarity computation usin
 [waffle_badge]: https://badge.waffle.io/DistrictDataLabs/semnet-similarity.png?label=ready&title=Ready
 [travis_badge]: https://travis-ci.org/DistrictDataLabs/semnet-similarity.svg?branch=master
 [travis_build]: https://travis-ci.org/DistrictDataLabs/semnet-similarity
-[coveralls_badge]: https://coveralls.io/repos/DistrictDataLabs/semnet-similarity/badge.svg
+[coveralls_badge]: https://coveralls.io/repos/DistrictDataLabs/semnet-similarity/badge.svg?branch=develop
 [coveralls_build]: https://coveralls.io/r/DistrictDataLabs/semnet-similarity
 
 <!-- Other Badges -->
