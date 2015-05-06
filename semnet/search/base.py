@@ -47,6 +47,8 @@ class BaseSearch(object):
         Returns all the search queries based on the list of nouns, e.g. both
         IND and AND queries for the entire list.
 
+        Every query is a (unicode) string
+
         TODO: add conjunctive queries
         """
         # equivalent to return [n for n in self.nouns]
