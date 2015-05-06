@@ -3,6 +3,7 @@
 [![Build Status][travis_badge]][travis_build]
 [![Coverage Status][coveralls_badge]][coveralls_build]
 [![Software License][license_badge]][license_link]
+[![Documentation Status][rtd_badge]][rtd_link]
 [![Stories in Ready][waffle_badge]][waffle_ready]
 
 **A Natural Language Engineering (NLE) implementation of similarity computation using semantic networks (Iosif and Potamianos, 2012).**
@@ -61,3 +62,5 @@ This project attempts to implement the unsupervised "similarity computation usin
 <!-- Other Badges -->
 [license_badge]: https://img.shields.io/github/license/DistrictDataLabs/semnet-similarity.svg
 [license_link]: https://github.com/DistrictDataLabs/semnet-similarity/blob/master/LICENSE
+[rtd_badge]: https://readthedocs.org/projects/semnet-similarity/badge/?version=latest
+[rtd_link]: https://readthedocs.org/projects/semnet-similarity/?badge=latest
