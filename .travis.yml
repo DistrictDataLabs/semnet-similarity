@@ -7,10 +7,15 @@ install: pip install -r requirements.txt
 
 script: make test
 
+after_script: coveralls
+
 notifications:
   email:
     recipients:
       - benjamin@bengfort.com
       - allen.leis@gmail.com
+      - bilbro@gmail.com
+      - tboyd225@gmail.com
+      - ojedatony1616@gmail.com
     on_success: change
     on_failure: always
